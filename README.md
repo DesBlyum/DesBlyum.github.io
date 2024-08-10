@@ -1,4 +1,5 @@
 # DesBlyum.github.io
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DesBlyum&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
@@ -10,7 +11,8 @@
 
 <div class="header">
     <h1>My GitHub Profile</h1>
-    <p> Ya krutoy specialist !</p>
+    <p> Всем привет!</p>
+    <p> Основное направление базы данных, разработка в СУБД **MS SQL** и **SYBASE**. Погружаюсь в банковскую сферу и финтех технологии</p>
 </div>
 
 </body>
