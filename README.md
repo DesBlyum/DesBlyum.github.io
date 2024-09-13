@@ -4,16 +4,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Profile Header</title>
-    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
 <div class="header">
-    <h1>My GitHub Profile</h1>
-    <p> Всем привет!</p>
-    <p> Основное направление базы данных, разработка в СУБД **MS SQL** и **SYBASE**. Погружаюсь в банковскую сферу и финтех технологии</p>
+    <h1 align="center">Всем привет! Меня зовут Денис</a> 
+    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+    <h3 align="center">Я Backend разработчик</h3>
 </div>
-
 </body>
 </html>
+
+### :man_technologist: Обо мне :
+- :telescope: Проектирование реляционных баз данных, разработка структур, хранимых процедур, запросов и т.п. на T-SQL
+
+- :seedling: СУБД: Sybase ASE 16, MS SQL, MySQL, SQL Lite
+
+- :zap: Банковский сектор, фин. тех. направление
+
+- :mailbox:Связаться со мной можно по почте: DesBlyum@yandex.ru
+
