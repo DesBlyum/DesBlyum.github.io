@@ -18,8 +18,10 @@
 ### :man_technologist: Обо мне :
 - :telescope: Проектирование реляционных баз данных, разработка структур, хранимых процедур, запросов и т.п. на T-SQL
 
+- :seedling: PowerBuilder 2019/2022, 1C, Python 3
+  
 - :seedling: СУБД: Sybase ASE 16, MS SQL, MySQL, SQL Lite
-
+  
 - :zap: Банковский сектор, фин. тех. направление
 
 - :mailbox:Связаться со мной можно по почте: DesBlyum@yandex.ru
